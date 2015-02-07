@@ -25,3 +25,5 @@ legend("topright", lty = 1, col = c("black", "red", "blue"), legend = c("Sub Met
 plot(datafile2$DateTime1, datafile2$Global_reactive_power, type = "l", ylab = "Global Reactive Power", xlab = "")
 
 dev.off()
+
+#damn it feels good to be a gangsta!
